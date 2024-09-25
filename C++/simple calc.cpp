@@ -9,6 +9,7 @@ int main()
     char c;
 
     cout << "Simple calculator" << endl;
+    cout << "Hi";
     cout << "Enter first no. to be calculated:";
     cin >> num1;
 
